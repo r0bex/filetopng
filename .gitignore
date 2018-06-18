@@ -1,2 +1,3 @@
 filetopng
 *.png
+!sample.png
